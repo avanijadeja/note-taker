@@ -34,6 +34,18 @@ In this application I used nodejs, express js, UUID so here are steps to do befo
 
 Here I attached some screenshots and links.
 
+![Main page](./public/assets/images/Main_page.png)
+![notes](./public/assets/images/Notes.png)
+![add_notes](./public/assets/images/Add_notes.png)
+![view_notes](./public/assets/images/view_notes.png)
+
+
+The URL of the functional, deployed application - https://notetracker.herokuapp.com/
+
+The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. - https://github.com/avanijadeja/note-taker
+
+
+
 
 
 
