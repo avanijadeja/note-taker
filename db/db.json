@@ -1,3 +1,30 @@
+
 {
-    "notes": []
+  "notes": [
+    {
+      "title": "Call bank on Friday",
+      "text": "On Friday call bank to check account",
+      "id": "53aa22a9-c5a1-4694-8682-25dbdcb4718f"
+    },
+    {
+      "title": "Reschedule Delivery",
+      "text": "Reschedule all delivery by End of this month",
+      "id": "f2bf9164-2b48-4b41-81bd-acd85dc93436"
+    },
+    {
+      "title": "Finish payroll",
+      "text": "Finish all payroll which is pending",
+      "id": "ceb46a2b-e573-45f5-9cd4-8b8857894f92"
+    },
+    {
+      "title": "Check in with clients",
+      "text": "check with clients so we can see clients requirements.",
+      "id": "adb1f645-af7d-4b6c-8061-38f2909acd22"
+    },
+    {
+      "title": "Client lunch on Thursday",
+      "text": "lunch with client to discuss whats requirements",
+      "id": "bd2af9a6-5221-4547-aa2d-cf87dc066711"
+    }
+  ]
 }

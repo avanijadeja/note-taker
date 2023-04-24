@@ -3,10 +3,12 @@ const { v4: uuidv4 } = require('uuid');
 const { notes } = require('../../db/db');
 const { createNewNote, findById, editNote, removeNote } = require('../../lib/notes');
 
+// GET Route for retrieving notes 
 router.get('/notes', (req, res) => {
     res.json(notes);
 });
 
+// POST Route for New note or edit note
 router.post('/notes', (req, res) => {
 
     // creates new note if id exists, otherwise edits existing note
@@ -20,6 +22,7 @@ router.post('/notes', (req, res) => {
     res.json(req.body);
 });
 
+// DELETE Route to delete specific id note
 router.delete('/notes/:id', (req, res) => {
     const note = findById(req.params.id, notes);
 
